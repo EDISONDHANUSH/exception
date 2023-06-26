@@ -6,6 +6,7 @@ public class UseClass {
 		// TODO Auto-generated method stub
 		Login l=new Login();
 		System.out.println(l);
+		System.out.println("hi this is me");
 try {
 	
 	System.out.println(l.CheckedPassword("edisondhanush"));
